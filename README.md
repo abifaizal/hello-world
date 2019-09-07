@@ -1,2 +1,3 @@
 # hello-world
-Test my first repo
+Just testing my first commit, have a good day!
+My GitHub journey just began
